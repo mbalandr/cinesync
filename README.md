@@ -1,5 +1,13 @@
 > ## This is a public version of a previously private group project created for portfolio purposes. Any sensitive information (API keys, credentials, etc.) has been removed.
 
+# Contributors
+
+- [Mariah Balandran](https://github.com/mbalandr): Design, Screenflow, Prototype & Mockup
+- [Julien Howard](https://github.com/julienphoward): Backend & API
+- [Daniel Villalon](https://github.com/Daniel-Villalon): Backend & Database
+- [Bryce Takaha](https://github.com/BryTak1): Backend & Database
+- [Edmund Xu](https://github.com/edmund-xu): Frontend & Backend
+
 # Installing the First Time
 
 - clone repo
@@ -11,20 +19,6 @@
 
 - make sure you're in the cinesync directory (e.g. /workspaces/cinesync/cinesync)
 - npx expo start
-   
-# Scrum Documents
-
-- [Release Plan](https://docs.google.com/document/d/1DDjn64o8Rmn9khyg3IsyCwF0CglRoA4nNL5QW3qltrc/edit?usp=drive_link) 
-- [Sprint 1 Plan](https://docs.google.com/document/d/16iNh0fsackpxQJ8G5l3BT6Br8Zt17_zog8GUBgO5PvY/edit?usp=sharing)
-- [Sprint 1 Report](https://docs.google.com/document/d/1cFMzaUHgQO74lLEWPdk_3ItWGrodpS98ISRtnaPOcYw/edit?usp=sharing)
-- [Sprint 2 Plan](https://docs.google.com/document/d/13yrlyZE7cMFyNZwQd5PLwI3MWmS2C-i97zk6_XnF9TQ/edit?usp=sharing)
-- [Sprint 2 Report](https://docs.google.com/document/d/1B5Ln3Jc2UE3rQ9Nx_x23dfnOZWj6VRHC5AQmbVbHtI4/edit?usp=sharing)
-- [Sprint 3 Plan](https://docs.google.com/document/d/1YkXUBDIGpMMNFiDwrxswAQGhm3JUOS1Ts9MtQnkw458/edit?usp=sharing)
-- [Sprint 3 Report](https://docs.google.com/document/d/1eThtUyiN2YHpusKyrALi89b9yzSKZrOoi7ZO6T2Rps8/edit?usp=sharing)
-- [Sprint 4 Plan](https://docs.google.com/document/d/1g4NQlm_gGEZhUxUNdHQSMiF6EJj8cTt1fItwRR8AkVM/edit?usp=sharing)
-- [Sprint 4 Report](https://docs.google.com/document/d/1quOO1cc7zjAJOYIqyJTYEhbBLKnnodihBAKEfG9-LVU/edit?usp=sharing)
-
-# [Test Plan and Report](https://docs.google.com/document/d/1h69EhmE_OkjDJsCX7UWINhid9tPgbBujBe1EFs9t2NA/edit?usp=sharing)
 
 # [Release Summary](https://docs.google.com/document/d/1c5BqZCQmI6qGqt8XisYPkCmX2jEMIO-Bm1Pfue09Hes/edit?usp=sharing)
 
