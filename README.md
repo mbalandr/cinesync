@@ -1,6 +1,27 @@
 > ## This is a public version of a previously private group project created for portfolio purposes. Any sensitive information (API keys, credentials, etc.) has been removed.
 
-# Contributors
+# [CineSync](https://cinesync115a.web.app/): Movie Watchlist App
+> Collaborative movie lists for friends & family: invite people, search movies, vote, and pick something fair for everyone.
+
+
+## Features
+
+- Invite & Join Groups
+- Search Movies and View Details (OMDb API)
+- Sort by Likes/Dislikes or Rotten Tomatoes Percentage
+- “Fairness” Filter 
+- User Authentication (Login/Signup)
+- Real-time Updates with Firebase Database
+
+
+## Tech Stack
+
+- React Native (Expo)
+- Firebase (Auth, Firestore, Hosting, Security Rules)
+- OMDb API (Movie Metadata)
+
+
+## Contributors
 
 - [Mariah Balandran](https://github.com/mbalandr): Design, Screenflow, Prototype & Mockup
 - [Julien Howard](https://github.com/julienphoward): Backend & API
@@ -8,59 +29,9 @@
 - [Bryce Takaha](https://github.com/BryTak1): Backend & Database
 - [Edmund Xu](https://github.com/edmund-xu): Frontend & Backend
 
-# Installing the First Time
 
-- clone repo
-- git pull origin main
-- cd cinesync
-- npm install
-   
-# To Start
-
-- make sure you're in the cinesync directory (e.g. /workspaces/cinesync/cinesync)
-- npx expo start
-
-# [Release Summary](https://docs.google.com/document/d/1c5BqZCQmI6qGqt8XisYPkCmX2jEMIO-Bm1Pfue09Hes/edit?usp=sharing)
-
-# [Team Member Contribution Sheet](https://docs.google.com/spreadsheets/d/1BokqYzs_K2u4NJM4fzDizeSYLR9qqaYCXEoqe-Hdjio/edit?usp=sharing)
-
-# Design Documents
+## Design Documents
 
 - [Brainstorm Figma Design Board](https://www.figma.com/design/ZAgfKoexXckcku6M1iozWG/CineSync-Design-Board--Old-?node-id=0-1&t=UNeiQfLPtc6asplU-1)
 - [Final Figma Design Board](https://www.figma.com/design/SJw5vqUjlKNq8CAiA2KmO6/CineSync-Design-Board?node-id=0-1&t=NE6HCwGw02lU3sQb-1)
-- [Figma Interactive Prototype](https://www.figma.com/proto/SJw5vqUjlKNq8CAiA2KmO6/CineSync-Design-Board?node-id=758-553&starting-point-node-id=758%3A553&t=6hldqf8M7yfULhY5-1)
-
-# List of Dependencies
-
-    "@expo/vector-icons": "^14.0.2",
-    "@react-native-async-storage/async-storage": "2.1.2",
-    "@react-native-picker/picker": "2.11.0",
-    "@react-navigation/bottom-tabs": "^7.2.0",
-    "@react-navigation/native": "^7.0.14",
-    "expo": "~53.0.9",
-    "expo-blur": "~14.1.4",
-    "expo-constants": "~17.1.5",
-    "expo-font": "~13.3.1",
-    "expo-haptics": "~14.1.4",
-    "expo-image-picker": "~16.1.4",
-    "expo-linking": "~7.1.5",
-    "expo-router": "~5.0.7",
-    "expo-splash-screen": "~0.30.8",
-    "expo-status-bar": "~2.2.3",
-    "expo-symbols": "~0.4.4",
-    "expo-system-ui": "~5.0.7",
-    "expo-web-browser": "~14.1.6",
-    "firebase": "^11.6.0",
-    "react": "^19.1.0",
-    "react-dom": "19.1.0",
-    "react-native": "0.79.2",
-    "react-native-gesture-handler": "~2.24.0",
-    "react-native-paper": "^5.13.3",
-    "react-native-reanimated": "~3.17.4",
-    "react-native-safe-area-context": "5.4.0",
-    "react-native-screens": "~4.10.0",
-    "react-native-select-dropdown": "^4.0.1",
-    "react-native-web": "^0.20.0",
-    "react-native-webview": "13.13.5"
-
-These should all be installed by `package.json` when you `npm install` 
+- [Figma Interactive Prototype](https://www.figma.com/proto/SJw5vqUjlKNq8CAiA2KmO6/CineSync-Design-Board?node-id=758-553&starting-point-node-id=758%3A553&t=6hldqf8M7yfULhY5-1)s
