@@ -30,13 +30,13 @@
 - [Edmund Xu](https://github.com/edmund-xu): Frontend & Backend
 
 
-## Screenflow
-
-![Screenflow Example](cinesync/assets/screenshots/CineSync-Final-Presentation.jpg)
-
-
 ## Design Documents
 
 - [Brainstorm Figma Design Board](https://www.figma.com/design/ZAgfKoexXckcku6M1iozWG/CineSync-Design-Board--Old-?node-id=0-1&t=UNeiQfLPtc6asplU-1)
 - [Final Figma Design Board](https://www.figma.com/design/SJw5vqUjlKNq8CAiA2KmO6/CineSync-Design-Board?node-id=0-1&t=NE6HCwGw02lU3sQb-1)
 - [Figma Interactive Prototype](https://www.figma.com/proto/SJw5vqUjlKNq8CAiA2KmO6/CineSync-Design-Board?node-id=758-553&starting-point-node-id=758%3A553&t=6hldqf8M7yfULhY5-1)
+
+
+## Screenflow
+
+![Screenflow Example](cinesync/assets/screenshots/CineSync-Final-Presentation.jpg)
