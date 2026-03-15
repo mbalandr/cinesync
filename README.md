@@ -1,4 +1,4 @@
-> # This is a public version of a previously private group project created for portfolio purposes. Any sensitive information (API keys, credentials, etc.) has been removed.
+> ## This is a public version of a previously private group project created for portfolio purposes. Any sensitive information (API keys, credentials, etc.) has been removed.
 
 # Installing the First Time
 
