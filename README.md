@@ -1,6 +1,6 @@
 # Notice
 
-> This is the public version 
+> This is a public version of a previously private group project created for portfolio purposes. Any sensitive information (API keys, credentials, etc.) has been removed.
 
 # Installing the First Time
 
