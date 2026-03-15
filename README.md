@@ -32,7 +32,7 @@
 
 ## Screenflow
 
-![Screenflow Example](cinesync/assets/screenshots/CineSync Final Presentation.jpg "CineSync Screenflow")
+![Screenflow Example](cinesync/assets/screenshots/CineSync-Final-Presentation.jpg)
 
 
 ## Design Documents
